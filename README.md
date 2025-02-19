@@ -8,7 +8,6 @@ This project is a **personal remake** of *White Lavender*, with enhanced mechani
 
 [![Watch the video](https://img.youtube.com/vi/M97tmWkgadI/0.jpg)](https://www.youtube.com/watch?v=M97tmWkgadI)  
 
----
 
 ## **🔹 Project Overview**  
 
@@ -25,10 +24,8 @@ This project is a **personal remake** of *White Lavender*, with enhanced mechani
 ✔ **Custom Bow Physics** → Used **Bézier curves** to calculate realistic arrow trajectories  
 ✔ **Game Feel Enhancements** → Sound design, UI feedback, and smooth player movement  
 
----
 
 ## **🛠 Tech Stack**
 - **Engine**: Unity  
 - **Language**: C#  
-- **Tools**: Git, Visual Studio  
 - **Project Type**: Personal Project  
