@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c0cfa5e7e11bcd4792d1ea9c8a32fad, type: 3}
+  m_Name: Kick
+  m_EditorClassIdentifier: 
+  <AnimName>k__BackingField: Kick
+  <HitboxToUse>k__BackingField: 3
+  <ImpactStartTime>k__BackingField: 0.3
+  <ImpactEndTime>k__BackingField: 0.55
+  attackDamage: 10
+  <WindupSound>k__BackingField: {fileID: 0}
+  <ImpactSound>k__BackingField: {fileID: 8300000, guid: 4642f98d099719746a056394cdffd9df,
+    type: 3}
