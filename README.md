@@ -1,4 +1,4 @@
-# 🛡️ Bee Knight - A Remake of *White Lavender*  
+# Bee Knight - A Remake of *White Lavender*  
 
 A **Unity-based action game** where players use **both melee and ranged combat** to fight enemies.  
 This project is a **personal remake** of *White Lavender*, with enhanced mechanics, AI improvements, and new gameplay features.  
